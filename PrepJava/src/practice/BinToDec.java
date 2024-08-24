@@ -1,4 +1,4 @@
-package practice;
+package src.practice;
 
 import java.util.Scanner;
 
@@ -16,8 +16,6 @@ public class BinToDec {
 			i++;
 			b=b/10;
 		}
-		
 		System.out.println(d);
 	}
-
 }
